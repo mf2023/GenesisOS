@@ -17,7 +17,7 @@ A brand-new operating system based on the Linux kernel, built from the ground up
 3. Develop Once, Deploy Everywhere: Developers can write code once based on the unified distributed application framework and deploy it on multiple terminals.
 
 #### Contribution
-冰之 ( @mf2022, Wenze Wei )
+1.  冰之（ @mf2022 or @mf2023，Wenze Wei ）
 
 
 ##### Github [GenesisOS in Github](https://github.com/mf2023/GenesisOS)
