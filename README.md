@@ -20,5 +20,5 @@ A brand-new operating system based on the Linux kernel, built from the ground up
 冰之 ( @mf2022, Wenze Wei )
 
 
-##### Github[GenesisOS in Github](https://github.com/mf2023/GenesisOS)
-##### Gitee[GenesisOS in Gitee](https://gitee.com/mf2022/genesisos)
+##### Github [GenesisOS in Github](https://github.com/mf2023/GenesisOS)
+##### Gitee  [GenesisOS in Gitee](https://gitee.com/mf2022/genesisos)
