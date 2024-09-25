@@ -1,0 +1,24 @@
+# Copyright (c) 2024 Wenze Wei
+#
+# This file is part of GenesisOS.
+#
+# This Source Code Form is subject to the terms of the GNU General Public License, v. 2.0.
+# You can obtain a copy of the GPL at
+# https://www.gnu.org/licenses/old-licenses/gpl-2.0.html.
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for
+# the specific language governing rights and limitations under the License.
+
+[package]
+name = "usr_rust"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["staticlib"]
+
+[dependencies]
+rand = "0.8.5"
+sha2 = "0.10.0"
+digest = "0.10.0"
